@@ -6,16 +6,18 @@ I'm a passionate **Machine Learning** and **Software Engineering** enthusiast, b
 
 ## 🚀 Highlights
 
-- **Working Student at Rabobank**: Tackled complex **portfolio optimization** challenges, leveraging quantum hardware to unlock new possibilities in financial modeling.
-- **Generative AI & Biomedical Signal Processing**: Pioneered research using the **SR3 image upscaling model** to denoise **ECG signals**, blending AI and healthcare in exciting new ways.
+- **Internship at Rabobank**: Tackled complex **portfolio optimization** challenges, leveraging quantum hardware to unlock new possibilities in financial modeling.
+- **State of the art research in Generative AI & Biomedical Signal Processing**: Pioneered research using the **SR3 image upscaling model** to denoise **ECG signals**, blending AI and healthcare in exciting new ways.
 
 ## ⚙️ Currently Building...
 
-- **Productivity App / Task Manager** (JS, React, Express, MongoDB, and more) — streamlining personal projects and boosting productivity.
-- **Inventory Management App** (C#, WPF) — building a scalable, enterprise-ready application with a sleek user interface.
+- **Productivity App / Reminders App** (JS, React, Express, MongoDB) 
 
 ---
 
-Feel free to check out my projects and contributions below 👇
+Please be sure to visit my personal website: [https://piedeboer96.github.io](https://piedeboer96.github.io).
+
+Additionally, you can explore my contributions and projects below. 👇
+
 
 
